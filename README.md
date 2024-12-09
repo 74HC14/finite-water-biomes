@@ -1,5 +1,7 @@
 # finite-water-biomes
-This datapack is designed to give a blacklist to LobsterJohn's Finite Water mod, in order to allow infinite water to regenerate in water biomes. The biomes I have chosen are:
+This datapack is designed to give a blacklist to [LobsterJohn's Finite Water mod](https://github.com/JDKDigital/finitewater), in order to allow infinite water to regenerate in water biomes. With LobsterJohn's Finite Water mod installed, infinite water source block regeneration is completely blocked in all biomes, and there is no easily accessible config file to alter this behaviour. By using this data pack, you will be able to pull water out of vanilla-style infinite water sources ad infinitum if they are within a water biome. You can also edit the data pack to add or remove biomes as you please. Consider using a mod like JTK222's Global Packs in order to have this datapack applied to all worlds automatically.
+
+The biomes I have chosen are:
 
 *   ocean
 *   deep ocean
