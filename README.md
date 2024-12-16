@@ -5,6 +5,6 @@ I have uploaded this both to [Curseforge](https://www.curseforge.com/minecraft/d
 
 This should apply to all river and ocean biomes that fall under minecraft's river and ocean tags.
 
-This datapack has only been tested on 1.20.1 on version 0.1.2 of LobsterJohn's mod. It does not work with 0.1.1 of the mod when played on 1.20.1. At the time of writing this (6th Dec 2024) you have to find this 0.1.2 version on Curseforge.
+This datapack has only been tested on 1.20.1 on version 0.1.2 of LobsterJohn's mod.
 
 All rights belong to their respective holders.
